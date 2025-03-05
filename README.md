@@ -19,7 +19,7 @@ I'm maintainer of following open source projects (on limited basis):
 * [packer-plugin-cross](https://github.com/michalfita/packer-plugin-cross) which is hard fork of [mkaczanowski/packer-builder-arm](https://github.com/mkaczanowski/packer-builder-arm) filling up gaps in the original
 
 I authored following (sub)projects:
-* [apt-sources]([https://github/]([https://github.com/jelmer/deb822-rs](https://github.com/jelmer/deb822-rs/tree/master/apt-sources) which is a crate to deal with DEB822 style `.source` files used by APT to recognize repositories with Debian packages.
+* [apt-sources](https://github.com/jelmer/deb822-rs/tree/master/apt-sources) which is a crate to deal with DEB822 style `.source` files used by APT to recognize repositories with Debian packages.
 
 ## Technical Skills
 

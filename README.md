@@ -6,7 +6,7 @@ Embedded software craftsman, seasoned software and system engineer, idiomatic la
 
 ### Professional
 
-At [Opteran](https://www.opteran.com) I'm acting as senior software engineer for Linux based (maintainer) and bare metal (reviewer) embedded systems and technical lead for embedded software engineering and system integration of hardware product with customised Linux systems. I deal daily with Ubuntu, Yocto and Armbian; I maintain some internal Debian packages.
+At [Opteran](https://www.opteran.com) I'm acting as principal software engineer for Linux based (maintainer) and bare metal (reviewer) embedded systems and technical lead for embedded software engineering and system integration of hardware product with customised Linux systems. I deal daily with Ubuntu, Yocto and Armbian; I maintain some internal Debian packages, including DKMS one.
 
 ### Personal
 
@@ -17,6 +17,9 @@ I'm maintainer of following open source projects (on limited basis):
   * [atsamx7x-pac](https://github.com/atsams-rs/atsamx7x-pac) which is Peripheral Access Crate (PAC) separated from below
   * [atsamx7x-rust](https://github.com/atsams-rs/atsamx7x-rust) which is now only a HAL crate
 * [packer-plugin-cross](https://github.com/michalfita/packer-plugin-cross) which is hard fork of [mkaczanowski/packer-builder-arm](https://github.com/mkaczanowski/packer-builder-arm) filling up gaps in the original
+
+I authored following (sub)projects:
+* [apt-sources]([https://github/]([https://github.com/jelmer/deb822-rs](https://github.com/jelmer/deb822-rs/tree/master/apt-sources) which is a crate to deal with DEB822 style `.source` files used by APT to recognize repositories with Debian packages.
 
 ## Technical Skills
 
